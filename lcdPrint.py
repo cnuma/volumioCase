@@ -14,6 +14,8 @@ import socket
 # - 0.2 - 2021/11/15 - minor bug correction
 # - 0.3 - 2022/01/03 - add scroll to long played song title on line 2
 # ------------------------------------------------------------------------------------------------
+# - E.Malosse - 
+# -------------
 
 
 
